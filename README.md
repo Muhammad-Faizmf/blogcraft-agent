@@ -38,7 +38,7 @@ flowchart TD
 ## Project structure
 
 ```text
-blog_generator_agent/
+blogCraft_agent/
 ├── app.py                 # Streamlit entry point
 ├── graph.py               # CLI entry point
 ├── config.py              # Secrets, model settings, and input limits
